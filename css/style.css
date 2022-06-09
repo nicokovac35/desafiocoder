@@ -1,0 +1,56 @@
+* { margin: 0; 
+    padding: 0;
+}
+/*-------------------nav-----------------*/
+
+.navbar-brand{
+    font-family:'Pacifico', cursive; 
+    font-size:25px;
+}
+.navbar-nav{
+    font-family: 'Bungee Shade', cursive;
+    font-size:20px;
+}
+li:hover {
+    background-color:rgb(246, 238, 15);
+}
+
+.text-img1{
+    font-family: 'Bungee Shade', cursive;
+    font-size:80px;
+}
+.text-img2{
+    font-family: 'Pacifico', cursive; 
+    font-size:80px;
+}
+
+
+
+/*--------------carrousel de imagenes----------*/
+
+
+/*----------------acordion de info------------------*/
+.accordion-header{
+    font-family: 'Permanent Marker', cursive;
+    font-size:80px;
+    text-align: center;
+}
+.accordion-item{
+    text-align:center;
+}
+.accordion-button{
+    background-color:rgb(238, 248, 40);
+}
+.accordion-collapse{
+    background-color:darkgray;
+}
+
+.accordion-body{
+    font-family: 'Space Mono', monospace;
+}
+
+
+/*-----------footer------------------------------*/
+
+
+/*---------------responsive-------------------------*/
